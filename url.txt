@@ -1,0 +1,2 @@
+Link to model deployment :
+https://huggingface.co/spaces/riki-profile/churn-predictor
